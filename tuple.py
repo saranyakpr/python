@@ -107,5 +107,5 @@ print(len(listChange))
 # 10.delete the content in tuple
 newTuple=('red', 'green', 'yellow', 'black')
 chanList=list(newTuple)
-chanList.pop(3)3
+chanList.pop(3)
 print(tuple(chanList))
